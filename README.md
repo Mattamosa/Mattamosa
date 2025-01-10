@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Matthew!
+
+🌱 I’m currently learning Svelte 5, Skeleton v3, AWS, & Wordpress.
 
 <!--
 **Mattamosa/Mattamosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
